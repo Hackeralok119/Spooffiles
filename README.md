@@ -1,6 +1,6 @@
 ## SPOOFER EXTENSION
 
-![sss](https://github.com/user-attachments/assets/52000bea-d774-40e0-9fe7-7bce66bf30f2)
+![sss](![IMG_20240912_232548](https://github.com/user-attachments/assets/9f371920-0f8e-46b9-a13d-b75bbab2c1de))
 
  **A Simple Extension Spoofer Script Which Can Spoof Your File Extension**
 

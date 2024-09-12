@@ -1,7 +1,6 @@
 ## SPOOFER EXTENSION
 
-![sss](![IMG_20240912_232548](https://github.com/user-attachments/assets/9f371920-0f8e-46b9-a13d-b75bbab2c1de))
-
+![IMG_20240912_232548](https://github.com/user-attachments/assets/9f371920-0f8e-46b9-a13d-b75bbab2c1de)
  **A Simple Extension Spoofer Script Which Can Spoof Your File Extension**
 
 -  apk to jpg , txt , docx , mp4 , mp3 , pdf , gif

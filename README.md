@@ -45,8 +45,8 @@ pip install -r requirements.txt
 python3 spoof.py
 ```
 
-# Screenshot
-![ext](https://github.com/user-attachments/assets/d95225a1-dd58-4024-8646-12b4c8f1f113)
+# Screenshot![IMG_20240912_233233](https://github.com/user-attachments/assets/ae4c44fa-f64f-4f7f-aa0c-572c53be72a2)
+)
 
 # Feedback
 
